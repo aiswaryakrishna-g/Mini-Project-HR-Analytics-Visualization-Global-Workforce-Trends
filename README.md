@@ -243,21 +243,7 @@ Total Payroll = SUM(employees[initial_salary_usd])
 
 ---
 
-## 📁 Repository Structure (suggested)
 
-```
-├── data/
-│   ├── employees.xlsx
-│   ├── departments.xlsx
-│   ├── locations.xlsx
-│   ├── promotions.xlsx
-│   ├── salaries_annual.xlsx
-│   └── org_edges.xlsx
-├── dashboard/
-│   └── Global_Workforce_Trends.pbix
-├── screenshots/
-│   └── (dashboard page screenshots)
-└── README.md
 ```
 
 ---
